@@ -7,21 +7,21 @@ body {
 }
 
 header {
-  background-color: #2b2834;
-  color: #7e6284;
+  background-color: #49312a;
+  color: #cda794;
   text-align: center;
   padding: 20px;
 }
 
 nav {
-  background-color: #372c55;
+  background-color: #cda794;
   display: flex;
   justify-content: center;
   padding: 10px;
 }
 
 nav a {
-  color: #37264c;
+  color: #cda794;
   margin: 0 10px;
   text-decoration: none;
 }
@@ -32,12 +32,14 @@ nav a:hover {
 }
 
 section {
+  background-color: rgb(190, 155, 136);
   display: flex;
   flex-direction: column;
   align-items: stretch;
 }
 
 h2 {
+  color: #774d41;
   font-size: 24px;
   font-weight: bold;
   margin: 20px 0 10px;
@@ -50,7 +52,14 @@ p {
 
 /* sub-heading specific styles */
 .sub-heading-1 {
-  color: #352e55;
+  color: #4d392f;
+  
+}
+
+a:link {
+  color: rgb(89, 64, 47);
+  background-color: transparent;
+  text-decoration: none;
 }
 
 
