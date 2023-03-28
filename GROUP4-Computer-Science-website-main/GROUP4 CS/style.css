@@ -45,6 +45,13 @@ h2 {
   margin: 20px 0 10px;
 }
 
+h3 {
+  color: #774d41;
+  font-size: 35px;
+  font-weight: bold;
+  margin: 20px 0 10px;
+}
+
 p {
   margin: 0;
   text-align: justify;
