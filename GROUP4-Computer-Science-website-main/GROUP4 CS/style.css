@@ -8,13 +8,13 @@ body {
 
 header {
   background-color: #a12969a8;
-  color: #7f4a78;
+  color: #ffffff;
   text-align: center;
   padding: 20px;
 }
 
 nav {
-  background-color: #ffffff;
+  background-color: #663046;
   display: flex;
   justify-content: center;
   padding: 10px;
@@ -64,7 +64,7 @@ p {
 }
 
 a:link {
-  color:#ff0088;
+  color:#7e3c61;
   background-color: transparent;
   text-decoration: none;
 }
